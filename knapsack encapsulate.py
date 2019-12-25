@@ -1,4 +1,3 @@
-
 class dinamic:
 
 	def getMax(self, group, row, groups, n):
